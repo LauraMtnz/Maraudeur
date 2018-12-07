@@ -1,0 +1,12 @@
+D:\Storage\Desktop\Maraudeur\Maraudeur\Maraudeur\Maraudeur\bin\Debug\netstandard2.0\Maraudeur.deps.json
+D:\Storage\Desktop\Maraudeur\Maraudeur\Maraudeur\Maraudeur\bin\Debug\netstandard2.0\Maraudeur.dll
+D:\Storage\Desktop\Maraudeur\Maraudeur\Maraudeur\Maraudeur\obj\Debug\netstandard2.0\Maraudeur.csprojAssemblyReference.cache
+D:\Storage\Desktop\Maraudeur\Maraudeur\Maraudeur\Maraudeur\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Storage\Desktop\Maraudeur\Maraudeur\Maraudeur\Maraudeur\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Storage\Desktop\Maraudeur\Maraudeur\Maraudeur\Maraudeur\obj\Debug\netstandard2.0\Maraudeur.csproj.CoreCompileInputs.cache
+D:\Storage\Desktop\Maraudeur\Maraudeur\Maraudeur\Maraudeur\obj\Debug\netstandard2.0\Maraudeur.AssemblyInfoInputs.cache
+D:\Storage\Desktop\Maraudeur\Maraudeur\Maraudeur\Maraudeur\obj\Debug\netstandard2.0\Maraudeur.AssemblyInfo.cs
+D:\Storage\Desktop\Maraudeur\Maraudeur\Maraudeur\Maraudeur\bin\Debug\netstandard2.0\Maraudeur.pdb
+D:\Storage\Desktop\Maraudeur\Maraudeur\Maraudeur\Maraudeur\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Storage\Desktop\Maraudeur\Maraudeur\Maraudeur\Maraudeur\obj\Debug\netstandard2.0\Maraudeur.dll
+D:\Storage\Desktop\Maraudeur\Maraudeur\Maraudeur\Maraudeur\obj\Debug\netstandard2.0\Maraudeur.pdb
